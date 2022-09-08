@@ -3,6 +3,8 @@
 ## <a href="https://github.com/rainmeter/rainmeter">Rainmeter</a> by <a href="https://www.rainmeter.net/">Rainmeter Org.</a>
 Desktop customization tool for Windows
 
+<b><a href="https://visualskins.com/skin/mond">Mond</a> skin used</a></b>
+
 
 ## <a href="https://github.com/Droptop-Four/Basic-Versio">Droptop-Four</a> by <a href="https://github.com/Droptop-Four">Droptop Four Org.</a>
 Droptop Four is the fourth iteration of the popular dropdown app launcher for Windows & Rainmeter. Droptop Four brings new features, plugins, themes, and improved compatibility with Windows 10.
