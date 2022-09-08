@@ -1,5 +1,7 @@
 # Rice-1: A WSL-Rice for Debian Linux + Win 11
 
+<img width="319" alt="image" src="https://user-images.githubusercontent.com/108214552/189058211-bb41f6ab-d2b9-4fa6-9596-5443541e3d6a.png">
+
 ## <a href="https://github.com/rainmeter/rainmeter">Rainmeter</a> by <a href="https://www.rainmeter.net/">Rainmeter Org.</a>
 Desktop customization tool for Windows
 
